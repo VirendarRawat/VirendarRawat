@@ -1,118 +1,118 @@
+<div align="center">
+
 # Hi, I'm Virendar Rawat 👋
 
 ### Full-Stack & AI Engineer
 
-I'm a Computer Applications graduate interested in building practical software solutions across **full-stack development, artificial intelligence, data analytics, and post-quantum cryptography**.
+Building practical software solutions across **Full-Stack Development, AI, Data Analytics & Post-Quantum Cryptography.**
 
-I enjoy turning ideas into functional applications while continuously improving my understanding of software engineering, computer science fundamentals, and emerging technologies.
+<p>
+  <a href="https://www.linkedin.com/in/virendar-rawat-754996344/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
 ## 👋 About Me
 
-- 🎓 MCA graduate with a background in Computer Science and Mathematics
-- 💻 Interested in Full-Stack Software Development
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 📊 Interested in Data Analytics and data-driven applications
-- 🔐 Exploring Post-Quantum Cryptography and security-focused research
-- 🧠 Strong interest in Data Structures, Algorithms and Core Computer Science
-- 🚀 Currently focused on building practical and technically meaningful projects
+I'm an **MCA graduate** with a background in Computer Science and Mathematics, interested in building practical and reliable software.
+
+My interests span **full-stack development, artificial intelligence, data analytics, software engineering, and cybersecurity**. I'm also exploring **Post-Quantum Cryptography**, particularly lattice-based cryptography and implementation security.
+
+I enjoy learning by building, experimenting with technologies, and turning ideas into working applications.
 
 ---
 
 ## 💡 What I Do
 
-### 🧱 Full-Stack Development
+<table>
+<tr>
+<td width="33%" align="center">
 
-I build web applications and backend services using technologies such as:
+### 🧱 Full-Stack
 
-- Java
-- Python
-- JavaScript
-- React
-- Node.js
-- Express.js
-- HTML
-- CSS
-- SQL
+Building web applications and backend services using modern development technologies.
+
+</td>
+
+<td width="33%" align="center">
 
 ### 🤖 AI & Data
 
-I'm interested in developing data-driven and intelligent applications using:
+Working with Python, data analysis, visualization and intelligent applications.
 
-- Python
-- Pandas
-- NumPy
-- Data Analysis
-- Data Visualization
-- Machine Learning
-- Artificial Intelligence
+</td>
 
-### 🔐 Post-Quantum Cryptography
+<td width="33%" align="center">
 
-I'm also exploring research-oriented work in **Post-Quantum Cryptography**, particularly:
+### 🔐 Security & PQC
 
-- Lattice-based cryptography
-- Kyber / ML-KEM
-- Side-channel analysis
-- Masking techniques
-- Cryptographic implementation security
+Exploring Post-Quantum Cryptography, lattice-based schemes and side-channel security.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
 
-### Backend & Data
+### ⚙️ Backend & Data
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-### Tools
+### 🔧 Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
+<div align="center">
+
 ```text
 Full-Stack Development
-        ↓
+          ↓
 AI & Data Analytics
-        ↓
+          ↓
 Software Engineering
-        ↓
+          ↓
 Post-Quantum Cryptography
-        ↓
-Building Real-World Projects
+          ↓
+Real-World Projects
