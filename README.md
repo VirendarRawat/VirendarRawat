@@ -158,3 +158,7 @@ Exploring **Post-Quantum Cryptography**, lattice-based schemes and implementatio
 [![](https://komarev.com/ghpvc/?username=VirendarRawat&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/VirendarRawat/VirendarRawat/snake-output/snake.svg" alt="Snake animation" />
+
+###
