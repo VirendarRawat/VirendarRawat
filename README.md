@@ -159,6 +159,6 @@ Exploring **Post-Quantum Cryptography**, lattice-based schemes and implementatio
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/VirendarRawat/VirendarRawat/snake-output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VirendarRawat/VirendarRawat/snake-output/snake-dark.svg" alt="Snake animation" />
+</p>
