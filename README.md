@@ -102,17 +102,46 @@ Exploring Post-Quantum Cryptography, lattice-based schemes and side-channel secu
 
 ---
 
-## 🎯 Current Focus
+---
+
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-```text
-Full-Stack Development
-          ↓
-AI & Data Analytics
-          ↓
-Software Engineering
-          ↓
-Post-Quantum Cryptography
-          ↓
-Real-World Projects
+<img src="https://github-readme-stats.vercel.app/api?username=VirendarRawat&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirendarRawat&layout=compact&hide_border=true" height="170" />
+
+</div>
+
+
+## 🎯 Current Focus
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 💻 Build
+
+Developing practical **Full-Stack applications** and strengthening software engineering fundamentals.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 Explore
+
+Learning **AI, Data Analytics and Machine Learning** through hands-on projects.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔐 Research
+
+Exploring **Post-Quantum Cryptography**, lattice-based schemes and implementation security.
+
+</td>
+</tr>
+</table>
