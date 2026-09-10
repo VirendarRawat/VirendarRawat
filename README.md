@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Virendar Rawat 👋
+#Virendar Rawat
 
 ### Full-Stack & AI Engineer
 
