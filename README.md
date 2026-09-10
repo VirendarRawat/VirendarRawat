@@ -102,9 +102,6 @@ Exploring Post-Quantum Cryptography, lattice-based schemes and side-channel secu
 
 ---
 
----
-
-
 ## 📊 GitHub Activity
 
 <div align="center">
