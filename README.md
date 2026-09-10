@@ -99,15 +99,23 @@ Exploring Post-Quantum Cryptography, lattice-based schemes and side-channel secu
 
 ---
 
-## 📊 GitHub Activity
+<!-- ## 📊 GitHub Activity
 
-<div align="center">
+ <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=VirendarRawat&show_icons=true&hide_border=true&rank_icon=github" height="1000" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirendarRawat&layout=compact&hide_border=true" height="1000" />
 
-</div>
+</div> -->
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=VirendarRawat&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=VirendarRawat&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=VirendarRawat&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=VirendarRawat&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ## 🎯 Current Focus
@@ -140,12 +148,13 @@ Exploring **Post-Quantum Cryptography**, lattice-based schemes and implementatio
 </tr>
 </table>
 
-# 📊 GitHub Stats:
-(https://github-readme-stats.shion.dev/api?username=VirendarRawat &theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-(https://streak-stats.demolab.com/?user=VirendarRawat &theme=radical&hide_border=false)<br/>
-(https://github-readme-stats.shion.dev/api/top-langs/?username=VirendarRawat &theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=VirendarRawat&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-(https://komarev.com/ghpvc/?username=VirendarRawat &icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=VirendarRawat&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
