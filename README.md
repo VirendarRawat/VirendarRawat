@@ -106,9 +106,9 @@ Exploring Post-Quantum Cryptography, lattice-based schemes and side-channel secu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VirendarRawat&show_icons=true&hide_border=true&rank_icon=github" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=VirendarRawat&show_icons=true&hide_border=true&rank_icon=github" height="1000" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirendarRawat&layout=compact&hide_border=true" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirendarRawat&layout=compact&hide_border=true" height="1000" />
 
 </div>
 
