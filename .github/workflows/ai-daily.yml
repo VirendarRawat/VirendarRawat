@@ -24,6 +24,7 @@ jobs:
           import json
           import os
           import urllib.request
+          import urllib.error
           from datetime import datetime, timezone
 
           api_key = os.environ["GROQ_API_KEY"]
@@ -86,15 +87,15 @@ jobs:
           )
 
           try:
-    with urllib.request.urlopen(request) as response:
-        result = json.loads(response.read().decode("utf-8"))
-except urllib.error.HTTPError as error:
-    error_body = error.read().decode("utf-8", errors="replace")
-    print("Groq API error:")
-    print(error_body)
-    raise
+             with urllib.request.urlopen(request) as response:
+                   result = json.loads(response.read().decode("utf-8"))
+          except urllib.error.HTTPError as error:
+                error_body = error.read().decode("utf-8", errors="replace")
+                print("Groq API error:")
+                print(error_body)
+                raise
 
-note = result["choices"][0]["message"]["content"].strip()
+           note = result["choices"][0]["message"]["content"].strip()
 
           readme_path = "README.md"
 
