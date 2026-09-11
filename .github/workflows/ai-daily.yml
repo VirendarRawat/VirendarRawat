@@ -87,15 +87,15 @@ jobs:
           )
 
           try:
-             with urllib.request.urlopen(request) as response:
-                   result = json.loads(response.read().decode("utf-8"))
+              with urllib.request.urlopen(request) as response:
+                  result = json.loads(response.read().decode("utf-8"))
           except urllib.error.HTTPError as error:
-                error_body = error.read().decode("utf-8", errors="replace")
-                print("Groq API error:")
-                print(error_body)
-                raise
+              error_body = error.read().decode("utf-8", errors="replace")
+              print("Groq API error:")
+              print(error_body)
+              raise
 
-           note = result["choices"][0]["message"]["content"].strip()
+          note = result["choices"][0]["message"]["content"].strip()
 
           readme_path = "README.md"
 
@@ -104,6 +104,11 @@ jobs:
 
           start_marker = "<!-- AI_DAILY_START -->"
           end_marker = "<!-- AI_DAILY_END -->"
+
+          if start_marker not in readme or end_marker not in readme:
+              raise RuntimeError(
+                  "AI Daily markers were not found in README.md"
+              )
 
           replacement = f"""<!-- AI_DAILY_START -->
 
@@ -120,20 +125,9 @@ jobs:
           <!-- AI_DAILY_END -->"""
 
           start = readme.find(start_marker)
-          end = readme.find(end_marker)
+          end = readme.find(end_marker) + len(end_marker)
 
-          if start == -1 or end == -1:
-              raise RuntimeError(
-                  "AI Daily markers were not found in README.md"
-              )
-
-          end += len(end_marker)
-
-          readme = (
-              readme[:start]
-              + replacement
-              + readme[end:]
-          )
+          readme = readme[:start] + replacement + readme[end:]
 
           with open(readme_path, "w", encoding="utf-8") as file:
               file.write(readme)
