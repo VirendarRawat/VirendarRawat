@@ -180,14 +180,14 @@ Exploring **Post-Quantum Cryptography**, lattice-based schemes and implementatio
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/VirendarRawat">
-    <img src="https://img.shields.io/badge/GitHub-VirendarRawat-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/virendar-rawat">
-    <img src="https://img.shields.io/badge/LinkedIn-Virendar%20Rawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <strong>I'm open to Full Stack & AI Engineering</strong> roles and collaborating on AI-powered products.
 </p>
 
 <p align="center">
-  <i>Open to opportunities, collaborations, and meaningful conversations around software, AI, data, and security.</i>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/SAY%20HELLO-D64535?style=for-the-badge&logo=gmail&logoColor=white" alt="Say Hello" />
+  </a>
+  <a href="https://www.linkedin.com/in/virendar-rawat-754996344/">
+    <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
 </p>
