@@ -161,8 +161,13 @@ Exploring **Post-Quantum Cryptography**, lattice-based schemes and implementatio
 </tr>
 </table>
 
+<div align="center">
+
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=VirendarRawat&limit=5&theme=radical&combine_all_yearly_contributions=true)
