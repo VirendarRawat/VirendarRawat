@@ -117,6 +117,22 @@ Exploring Post-Quantum Cryptography, lattice-based schemes and side-channel secu
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VirendarRawat&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <i>Building consistently, learning continuously, and documenting the journey through code.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/VirendarRawat">
+    <img src="https://img.shields.io/badge/GitHub-VirendarRawat-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Explore my contribution history, repositories, commits, and ongoing development activity directly on my GitHub profile.</i>
+</p>
+
 
 ## 🎯 Current Focus
 
