@@ -60,7 +60,7 @@ jobs:
           """
 
           payload = {
-              "model": "openai/gpt-oss-20b",
+              "model": "llama-3.3-70b-versatile",
               "messages": [
                   {
                       "role": "system",
@@ -85,10 +85,16 @@ jobs:
               method="POST"
           )
 
-          with urllib.request.urlopen(request) as response:
-              result = json.loads(response.read().decode("utf-8"))
+          try:
+    with urllib.request.urlopen(request) as response:
+        result = json.loads(response.read().decode("utf-8"))
+except urllib.error.HTTPError as error:
+    error_body = error.read().decode("utf-8", errors="replace")
+    print("Groq API error:")
+    print(error_body)
+    raise
 
-          note = result["choices"][0]["message"]["content"].strip()
+note = result["choices"][0]["message"]["content"].strip()
 
           readme_path = "README.md"
 
