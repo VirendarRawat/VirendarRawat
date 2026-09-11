@@ -175,3 +175,19 @@ Exploring **Post-Quantum Cryptography**, lattice-based schemes and implementatio
 <p align="center">
   <img src="https://raw.githubusercontent.com/VirendarRawat/VirendarRawat/snake-output/snake-dark.svg" alt="Snake animation" />
 </p>
+
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/VirendarRawat">
+    <img src="https://img.shields.io/badge/GitHub-VirendarRawat-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/virendar-rawat">
+    <img src="https://img.shields.io/badge/LinkedIn-Virendar%20Rawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Open to opportunities, collaborations, and meaningful conversations around software, AI, data, and security.</i>
+</p>
