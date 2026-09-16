@@ -1,0 +1,41 @@
+name: Daily AI Profile Update
+
+on:
+  schedule:
+    # 06:30 UTC daily (~12:00 IST). GitHub may delay scheduled runs by a few minutes.
+    - cron: "30 6 * * *"
+  workflow_dispatch: {}   # lets you run it manually from the Actions tab
+  push:
+    branches: [main]      # also refresh on every push to main
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate today's AI note
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/update_profile.py
+
+      - name: Commit changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: daily AI profile note"
+            git push
+          fi
