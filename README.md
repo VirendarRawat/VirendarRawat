@@ -2,7 +2,7 @@
 
   <img src="Banner.png" alt="Cyberpunk Developer Banner" width="100%" />
 
-  <br/><br/>
+  <br/>
 
 # Virendar Rawat
 
