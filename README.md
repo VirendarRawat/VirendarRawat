@@ -188,13 +188,13 @@ Exploring **Post-Quantum Cryptography**, lattice-based schemes and implementatio
 </tr>
 </table> -->
 
-<div align="center">
+<!-- <div align="center">
 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</div>
+</div> -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/VirendarRawat/VirendarRawat/snake-output/snake-dark.svg" alt="Snake animation" />
