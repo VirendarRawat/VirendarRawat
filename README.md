@@ -6,7 +6,9 @@
 
 # Virendar Rawat
 
-### Full-Stack & AI Engineer
+<p align="center">
+  <b>Full Stack & AI Engineer</b> &nbsp;·&nbsp; Hyderabad, India 🇮🇳
+</p>
 
 Building practical software solutions across **Full-Stack Development, AI, Data Analytics & Post-Quantum Cryptography.**
 
