@@ -187,4 +187,4 @@ Exploring **Post-Quantum Cryptography**, lattice-based schemes and implementatio
 </p>
 
 
-<img width="1352" height="704" alt="image" src="https://github.com/user-attachments/assets/43903c51-75c0-41ab-a178-abf7f97b650a" />
+<!--<img width="1352" height="704" alt="image" src="https://github.com/user-attachments/assets/43903c51-75c0-41ab-a178-abf7f97b650a" /> -->
