@@ -45,11 +45,9 @@
 
 ## 👋 About Me
 
-I'm an **MCA graduate** with a background in Computer Science and Mathematics, interested in building practical and reliable software.
+I'm an **MCA graduate** with a background in Computer Science and Mathematics, interested in building practical and reliable software.My interests span **full-stack development, artificial intelligence, software engineering**.
 
-My interests span **full-stack development, artificial intelligence, data analytics, software engineering, and cybersecurity**. I'm also exploring **Post-Quantum Cryptography**, particularly lattice-based cryptography and implementation security.
-
-I enjoy learning by building, experimenting with technologies, and turning ideas into working applications.
+I'm also exploring **Post-Quantum Cryptography**, particularly lattice-based cryptography and implementation security. I enjoy learning by building, experimenting with technologies, and turning ideas into working applications.
 
 ---
 
@@ -83,7 +81,7 @@ Exploring Post-Quantum Cryptography, lattice-based schemes and side-channel secu
 </tr>
 </table>
 
----
+<!-- ---
 <h2 align="center">🛠️ Tech & Tools</h2>
 
 <p align="center">
@@ -114,7 +112,37 @@ Exploring Post-Quantum Cryptography, lattice-based schemes and side-channel secu
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
+--- -->
+
 ---
+
+## 🛠️ Tech & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />-->
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+<p align="center">
+  <!--<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />-->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=VirendarRawat&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
