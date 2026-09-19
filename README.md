@@ -185,3 +185,6 @@ Exploring **Post-Quantum Cryptography**, lattice-based schemes and implementatio
     <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
 </p>
+
+
+<img width="1352" height="704" alt="image" src="https://github.com/user-attachments/assets/43903c51-75c0-41ab-a178-abf7f97b650a" />
