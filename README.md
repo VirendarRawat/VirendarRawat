@@ -28,24 +28,23 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
 </p> -->
-
 <p align="center">
   <a href="https://www.linkedin.com/in/virendar-rawat/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:9398264843@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com//VirendarRawat"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
-
 </div>
-
----
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="./Popper.psd.full.png">
+</div>
 <!-- START_AI_NOTE -->
 
 <!-- END_AI_NOTE -->
 
 ## 👋 About Me
 
-I'm an **MCA graduate** with a background in Computer Science and Mathematics, interested in building practical and reliable software. My interests span **full-stack development, artificial intelligence, software engineering**.
+I'm an **MCA graduate** interested in building practical and reliable software.<br>My interests span **full-stack development, artificial intelligence, software engineering**.
 
 I'm also exploring **Post-Quantum Cryptography**, particularly lattice-based cryptography and implementation security. I enjoy learning by building, experimenting with technologies, and turning ideas into working applications.
 
@@ -80,12 +79,6 @@ Exploring Post-Quantum Cryptography, lattice-based schemes and side-channel secu
 </td>
 </tr>
 </table>
-
-
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="./Popper.psd.full.png">
-</div>
 
 <!-- ---
 <h2 align="center">🛠️ Tech & Tools</h2>
