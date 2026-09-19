@@ -197,7 +197,7 @@ Exploring **Post-Quantum Cryptography**, lattice-based schemes and implementatio
 ## 🤝 Let's Connect
 
 <p align="center">
-  <strong>I'm open to Full Stack & AI Engineering</strong> roles and collaborating on AI-powered products.
+  I'm open to <b>Full Stack & AI Engineering</b> roles and collaborating on AI-powered products.
 </p>
 
 <p align="center">
