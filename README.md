@@ -10,9 +10,14 @@
   <b>Full Stack & AI Engineer</b> &nbsp;·&nbsp; Hyderabad, India 🇮🇳
 </p>
 
-Building practical software solutions across **Full-Stack Development, AI, Data Analytics & Post-Quantum Cryptography.**
+<!--Building practical software solutions across **Full-Stack Development, AI, Data Analytics & Post-Quantum Cryptography.**-->
+<p align="center">
+  Building practical software solutions across Full-Stack Development,</b><br/>
+  AI, Data Analytics & Post-Quantum Cryptography.
+</p>
 
-<p>
+
+<!--<p>
   <a href="https://www.linkedin.com/in/virendar-rawat-754996344/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -22,7 +27,14 @@ Building practical software solutions across **Full-Stack Development, AI, Data 
   <a href="https://github.com/VirendarRawat">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
+</p> -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/virendar-rawat/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:9398264843@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com//VirendarRawat"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
+
 
 </div>
 
