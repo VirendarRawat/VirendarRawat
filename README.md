@@ -198,15 +198,6 @@ Exploring **Post-Quantum Cryptography**, lattice-based schemes and implementatio
 <p align="center">
   I'm open to <b>Full Stack & AI Engineering</b> roles and collaborating on AI-powered products.
 </p>
-<!--
-<p align="center">
-  <a href="mailto:9398264843v@gmail.com">
-    <img src="https://img.shields.io/badge/SAY%20HELLO-D64535?style=for-the-badge&logo=gmail&logoColor=white" alt="Say Hello" />
-  </a>
-  <a href="https://www.linkedin.com/in/virendar-rawat-754996344/">
-    <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-</p>-->
 
 <p align="center">
   <a href="mailto:9398264843v@gmail.com"><img src="https://img.shields.io/badge/Say_hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
