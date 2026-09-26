@@ -13,7 +13,7 @@
 <!--Building practical software solutions across **Full-Stack Development, AI, Data Analytics & Post-Quantum Cryptography.**-->
 <p align="center">
   Building practical software solutions across Full-Stack Development,</b><br/>
-  AI, Data Analytics & Post-Quantum Cryptography.
+  AI and Post-Quantum Cryptography.
 </p>
 
 
