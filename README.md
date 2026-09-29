@@ -64,7 +64,7 @@ Building web applications and backend services using modern development technolo
 
 <td width="33%" align="center">
 
-### 🤖 AI & Data
+### 🤖 AI & ML
 
 Working with Python, data analysis, visualization and intelligent applications.
 
@@ -122,7 +122,7 @@ Exploring Post-Quantum Cryptography, lattice-based schemes and side-channel secu
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
