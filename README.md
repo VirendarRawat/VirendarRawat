@@ -144,14 +144,23 @@ Exploring Post-Quantum Cryptography, lattice-based schemes and side-channel secu
 ---
 
 
-# 📊 GitHub Stats:
+<!--# 📊 GitHub Stats: -->
 
 <!--![](https://github-readme-stats.shion.dev/api?username=VirendarRawat&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-![](https://streak-stats.demolab.com/?user=VirendarRawat&theme=radical&hide_border=false)<br/>
+<!-- ![](https://streak-stats.demolab.com/?user=VirendarRawat&theme=radical&hide_border=false)<br/> -->
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=VirendarRawat&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak Stats" />
+</p>
+
+</div>
 <!-- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=VirendarRawat&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VirendarRawat&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
 
 ## 🎯 Current Focus
 
