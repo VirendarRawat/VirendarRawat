@@ -20,14 +20,16 @@
   />
 </picture> -->
 
-<h2 align="left">
- Hola Devs!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
 <div align="center">
 <img  src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" />
 </div>
-# Virendar Rawat
+
+<h1 align="center">
+ Virendar Rawat
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
+
+<!-- # Virendar Rawat -->
 
 <p align="center">
   <b>Full Stack & AI Engineer</b> &nbsp;·&nbsp; Hyderabad, India 🇮🇳
