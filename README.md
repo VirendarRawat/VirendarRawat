@@ -1,8 +1,24 @@
-<div align="center">
+<!--<div align="center">
 
   <img src="Banner.png" alt="Cyberpunk Developer Banner" width="100%" />
 
-  <br/>
+  <br/> -->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://www.adamalston.com/observatory.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://www.adamalston.com/observatory.svg?theme=light"
+  />
+  <img
+    src="https://www.adamalston.com/observatory.svg"
+    alt="AA/O-01"
+    width="100%"
+  />
+</picture>
 
 # Virendar Rawat
 
