@@ -1,10 +1,10 @@
-<!--<div align="center">
+<div align="center">
 
-  <img src="Banner.png" alt="Cyberpunk Developer Banner" width="100%" />
+  <!-- <img src="Banner.png" alt="Cyberpunk Developer Banner" width="100%" /> -->
 
-  <br/> -->
+  <br/> 
 
-<!-- <picture>
+<picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://www.adamalston.com/observatory.svg"
@@ -18,18 +18,18 @@
     alt="AA/O-01"
     width="100%"
   />
-</picture> -->
+</picture>
 
-<div align="center">
+<!-- <div align="center">
 <img  src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" />
 </div>
 
 <h1 align="center">
  Virendar Rawat
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+</h1> -->
 
-<!-- # Virendar Rawat -->
+# Virendar Rawat
 
 <p align="center">
   <b>Full Stack & AI Engineer</b> &nbsp;·&nbsp; Hyderabad, India 🇮🇳
@@ -41,18 +41,6 @@
   AI and Post-Quantum Cryptography.
 </p>
 
-
-<!--<p>
-  <a href="https://www.linkedin.com/in/virendar-rawat-754996344/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:9398264843v@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-  <a href="https://github.com/VirendarRawat">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
-</p> -->
 <p align="center">
   <a href="https://www.linkedin.com/in/virendar-rawat/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:9398264843@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
