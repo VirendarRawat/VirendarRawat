@@ -171,9 +171,13 @@ Exploring Post-Quantum Cryptography, lattice-based schemes and side-channel secu
 # 📊 GitHub Stats
 <!-- <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theabbie&theme=github_dark" alt="TheAbbie's github stats" />
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theabbie&theme=github_dark" alt="TheAbbie's top languages" /> -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=VirendarRawat&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak Stats" />
+</p> -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=VirendarRawat&theme=radical&hide_border=true&background=0d1117&timezone=Asia/Kolkata&cache_bust=1" alt="GitHub Streak Stats" />
 </p>
+
 
 </div>
 <!-- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=VirendarRawat&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
