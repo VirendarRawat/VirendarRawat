@@ -231,6 +231,8 @@ Exploring **Post-Quantum Cryptography**, lattice-based schemes and implementatio
   <img src="https://raw.githubusercontent.com/VirendarRawat/VirendarRawat/snake-output/snake-dark.svg" alt="Snake animation" />
 </p>
 
+---
+
 ### 🤝 Let's Connect
 
 <p align="center">
