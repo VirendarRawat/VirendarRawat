@@ -228,10 +228,8 @@ Exploring **Post-Quantum Cryptography**, lattice-based schemes and implementatio
   <img src="https://raw.githubusercontent.com/VirendarRawat/VirendarRawat/snake-output/snake-dark.svg" alt="Snake animation" />
 </p> 
 
----
-
 ### 🤝 Let's Connect
-
+---
 <p align="center">
   I'm open to <b>Full Stack & AI Engineering</b> roles and collaborating on AI-powered products.
 </p>
