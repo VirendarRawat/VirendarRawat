@@ -54,8 +54,7 @@
 <!-- START_AI_NOTE -->
 
 <!-- END_AI_NOTE -->
-
-## 👋 About Me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
 I'm an **MCA graduate** interested in building practical and reliable software.<br>My interests span **full-stack development, artificial intelligence, software engineering**.
 
