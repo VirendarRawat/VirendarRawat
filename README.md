@@ -29,7 +29,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1> -->
 
-# Virendar Rawat
+# Virendar Rawat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <p align="center">
   <b>Full Stack & AI Engineer</b> &nbsp;·&nbsp; Hyderabad, India 🇮🇳
@@ -127,8 +127,8 @@ Exploring Post-Quantum Cryptography, lattice-based schemes and side-channel secu
 
 ---
 
-## 🛠️ Tech & Tools
-
+<!--## 🛠️ Tech & Tools -->
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35px"> Tech Skills
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-008080?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
