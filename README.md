@@ -229,7 +229,7 @@ Exploring **Post-Quantum Cryptography**, lattice-based schemes and implementatio
 
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/VirendarRawat/VirendarRawat/snake-output/snake-dark.svg" alt="Snake animation" />
-</p> --> ORIGINAL
+</p> --> <!-- ORIGINAL -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
