@@ -174,6 +174,9 @@ Exploring Post-Quantum Cryptography, lattice-based schemes and side-channel secu
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=VirendarRawat&theme=radical&hide_border=true&background=0d1117&timezone=Asia/Kolkata&cache_bust=26" alt="GitHub Streak Stats" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=VirendarRawat&theme=radical&hide_border=true&background=0d1117&timezone=Asia/Kolkata&cache_bust=27" alt="GitHub Streak Stats" />
+</p>
 <!--<p align="center"> DAILY CHANGE
   <img src="https://streak-stats.demolab.com/?user=VirendarRawat&theme=radical&hide_border=true&background=0d1117&timezone=Asia/Kolkata&cache_bust=14" alt="GitHub Streak Stats" />
 </p>-->
