@@ -2,11 +2,10 @@
 
   <!-- <img src="Banner.png" alt="Cyberpunk Developer Banner" width="100%" /> -->
 
-  <br/> 
+  <!--<br/> -->
   <p align="center">
   <img src="header.svg" width="100%" alt="Virendar Rawat Header" />
 </p>
-
 <!--<picture>
   <source
     media="(prefers-color-scheme: dark)"
