@@ -245,7 +245,7 @@ Exploring **Post-Quantum Cryptography**, lattice-based schemes and implementatio
       "id": 1,
       "properties": {
         "ID": 0,
-        "marker-color": "#db4437"",
+        "marker-color": "#db4437",
         "marker-symbol": "marker",
         "marker-size": "large"
       },
