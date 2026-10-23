@@ -4,7 +4,7 @@
 
   <!--<br/> -->
   <p align="center">
-  <img src="scripts/header.svg" width="100%" alt="Virendar Rawat Header" />
+  <img src="assets/header.svg" width="100%" alt="Virendar Rawat Header" />
 </p>
 <!--<picture>
   <source
