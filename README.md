@@ -225,11 +225,13 @@ Exploring **Post-Quantum Cryptography**, lattice-based schemes and implementatio
 
 </div> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/VirendarRawat/VirendarRawat/snake-output/snake-dark.svg" alt="Snake animation" />
-</p> 
+</p> --> ORIGINAL
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+</p>
 ---
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px">  Let's Connect
