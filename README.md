@@ -3,10 +3,10 @@
   <!-- <img src="Banner.png" alt="Cyberpunk Developer Banner" width="100%" /> -->
 
   <!--<br/> -->
-  <p align="center">
+  <!-- <p align="center">
   <img src="assets/header.svg" width="100%" alt="Virendar Rawat Header" />
-</p>
-<!--<picture>
+</p> -->
+<picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://www.adamalston.com/observatory.svg"
@@ -20,7 +20,7 @@
     alt="AA/O-01"
     width="100%"
   />
-</picture>-->
+</picture>
 
 <!-- <div align="center">
 <img  src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" />
