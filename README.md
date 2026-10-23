@@ -260,6 +260,33 @@ Exploring **Post-Quantum Cryptography**, lattice-based schemes and implementatio
 }
 
 ```
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0,
+        "marker-color": "#ff0000",
+        "marker-symbol": "marker",
+        "marker-size": "large"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3886111,
+          17.4499913
+        ]
+      }
+    }
+  ]
+}
+
+```
+
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px">  Let's Connect
 <p align="center">
   I'm open to <b>Full Stack & AI Engineering</b> roles and collaborating on AI-powered products.
