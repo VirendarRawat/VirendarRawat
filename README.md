@@ -256,26 +256,6 @@ Exploring **Post-Quantum Cryptography**, lattice-based schemes and implementatio
           17.4499913
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "id": 2,
-      "properties": {
-        "stroke-opacity": 0,
-        "fill-opacity": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [78.3300, 17.3900],
-            [78.4400, 17.3900],
-            [78.4400, 17.5000],
-            [78.3300, 17.5000],
-            [78.3300, 17.3900]
-          ]
-        ]
-      }
     }
   ]
 }
