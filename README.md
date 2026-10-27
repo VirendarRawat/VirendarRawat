@@ -270,7 +270,7 @@ Exploring **Post-Quantum Cryptography**, lattice-based schemes and implementatio
       "type": "Feature",
       "id": 1,
       "properties": {
-        "marker-color": "#ea4335",
+        "marker-color": "#ff0000",
         "marker-symbol": "marker",
         "marker-size": "large"
       },
@@ -281,7 +281,6 @@ Exploring **Post-Quantum Cryptography**, lattice-based schemes and implementatio
     }
   ]
 }
-
 ```
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px">  Let's Connect
