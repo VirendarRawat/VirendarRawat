@@ -263,7 +263,6 @@ Exploring **Post-Quantum Cryptography**, lattice-based schemes and implementatio
 ```
 
 ```geojson
-
 {
   "type": "FeatureCollection",
   "features": [
@@ -271,7 +270,6 @@ Exploring **Post-Quantum Cryptography**, lattice-based schemes and implementatio
       "type": "Feature",
       "id": 1,
       "properties": {
-        "title": "Hyderabad",
         "marker-color": "#ea4335",
         "marker-symbol": "marker",
         "marker-size": "large"
@@ -285,24 +283,18 @@ Exploring **Post-Quantum Cryptography**, lattice-based schemes and implementatio
       "type": "Feature",
       "id": 2,
       "properties": {
-        "marker-size": "small",
-        "marker-color": "#ffffff"
+        "stroke-opacity": 0,
+        "fill-opacity": 0
       },
       "geometry": {
-        "type": "Point",
-        "coordinates": [78.25, 17.55]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 3,
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#ffffff"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [78.55, 17.35]
+        "type": "Polygon",
+        "coordinates": [[
+          [78.25, 17.35],
+          [78.55, 17.35],
+          [78.55, 17.55],
+          [78.25, 17.55],
+          [78.25, 17.35]
+        ]]
       }
     }
   ]
